@@ -1,3 +1,2 @@
 # quest-5
-la numéro 5...
 local
